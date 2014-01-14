@@ -1,0 +1,12 @@
+.vagrant
+.bundle
+.DS_Store
+Berksfile.lock
+vendor
+build/ref_db/files*
+build/ref_db/*.sql*
+build/ref_db/slaughterhouse
+www/sites/default/settings*
+*.sass-cache
+/ostdi/nbproject/private/
+/nbproject/private/
